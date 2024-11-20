@@ -39,10 +39,7 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
    cd StockPricePrediction
    ```
 
-3. **Run the main script:**
-    ```bash
-   python stock_prediction.py
-   ```
+3. **Use the Jupyter Notebook to understand the code.**
 
 ## Data Preprocessing
 
